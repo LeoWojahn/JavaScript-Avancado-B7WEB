@@ -1,10 +1,9 @@
 class Person {
+	age = 0;
 
-    age = 0;
-
-    constructor(name, age) {
-        this.name = name;
-    }
+	constructor(name, age) {
+		this.name = name;
+	}
 }
 
 let pessoa1 = new Person("João");
