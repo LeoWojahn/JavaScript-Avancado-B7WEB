@@ -18,9 +18,8 @@ javascipt-avancado/
 │  ├─ 1.2-projeto-luta/ ⭐
 │  │  └─ assets/
 │  │     └─ js/
-│  ├─ 1.3-intoducao-a-programacao-funcional/
-│  ├─ 1.4-funcional/
-│  └─ 1.5-projeto-luta-funcional/
+│  ├─ 1.3-programacao-funcional/
+│  └─ 1.4-projeto-luta-funcional/ ⭐
 ├─ 2-requisicoes/
 ├─ 3-manipulacoes-arrow-ajax-etc/
 ├─ 4-requisicoes-e-assincronismo/
