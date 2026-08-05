@@ -10,13 +10,13 @@ class Person {
 		this.steps++;
 	}
 
-    get age() {
-        return this._age;
-    }
+	get age() {
+		return this._age;
+	}
 
-    set age(age) {
-        this._age = age;
-    }
+	set age(age) {
+		this._age = age;
+	}
 }
 
 let pessoa1 = new Person("João");
@@ -28,4 +28,4 @@ pessoa1.takeAStep();
 pessoa1.takeAStep();
 pessoa1.takeAStep();
 
-console.log(`Passos de ${pessoa1.name}: ${pessoa1.steps}`)
+console.log(`Passos de ${pessoa1.name}: ${pessoa1.steps}`);

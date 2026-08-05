@@ -20,4 +20,4 @@ pessoa1.takeAStep();
 pessoa1.takeAStep();
 pessoa1.takeAStep();
 
-console.log(`Passos de ${pessoa1.name}: ${pessoa1.steps}`)
+console.log(`Passos de ${pessoa1.name}: ${pessoa1.steps}`);

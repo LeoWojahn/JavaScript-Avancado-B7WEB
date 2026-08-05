@@ -1,31 +1,41 @@
 class Person {
-	_age = 0;
-	steps = 0;
+	age = 0;
 
-	constructor(name, age) {
+	constructor(name) {
 		this.name = name;
 	}
 
-	takeAStep() {
-		this.steps++;
+	sayHi() {
+		console.log(`${this.name} diz oi!`);
 	}
-
-    get age() {
-        return this._age;
-    }
-
-    set age(age) {
-        this._age = age;
-    }
 }
 
-let pessoa1 = new Person("João");
-let pessoa2 = new Person("Maria");
-let pessoa3 = new Person("Pedro");
+class Student extends Person {
+	constructor(name, n_matricula) {
+		super(name);
+		this.n_matricula = n_matricula;
+	}
 
-pessoa1.takeAStep();
-pessoa1.takeAStep();
-pessoa1.takeAStep();
-pessoa1.takeAStep();
+	realizarFormatura() {
+		console.log(`${this.name} está se formando.`);
+	}
+}
 
-console.log(`Passos de ${pessoa1.name}: ${pessoa1.steps}`)
+let p1 = new Person("Leonardo");
+let p2 = new Student("Luiza", "549675");
+
+console.log(`${p1.name} tem um nome - ${p1.name} - pois é uma pessoa.`);
+console.log(
+	`${p2.name} além de ser uma passoa e ter um nome - ${p2.name} - tem também um número de matrícula, pois é estudante: ${p2.n_matricula}.`,
+);
+
+p1.sayHi();
+p2.sayHi();
+
+p2.realizarFormatura();
+
+/*
+Característica única do estudante
+Da erro.
+p1.realizarFormatura();
+*/
