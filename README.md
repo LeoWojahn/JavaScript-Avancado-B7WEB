@@ -3,6 +3,7 @@
 Este repositório possui todos os códigos e projetos replicados por mim durante o [curso de JavaScript Avançado da B7WEB](https://b7web.com.br/).
 
 Estrutura do repositório:
+
 ```
 javascipt-avancado/
 ├─ 1-objetos-e-orientacao-a-objetos/
@@ -15,10 +16,10 @@ javascipt-avancado/
 │  │  ├─ 1.1.6-variavel-metodo-estatico/
 │  │  └─ 1.1.7-factory/
 │  ├─ 1.2-projeto-luta/ ⭐
-│  │  └─ assets/                                          
+│  │  └─ assets/
 │  │     └─ js/
 │  ├─ 1.3-intoducao-a-programacao-funcional/
-│  ├─ 1.4-funcional/                                      
+│  ├─ 1.4-funcional/
 │  └─ 1.5-projeto-luta-funcional/
 ├─ 2-requisicoes/
 ├─ 3-manipulacoes-arrow-ajax-etc/

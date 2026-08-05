@@ -12,4 +12,4 @@ function createPerson(name, age) {
 	return p;
 }
 
-console.log(createPerson('Leo', 21));
+console.log(createPerson("Leo", 21));
