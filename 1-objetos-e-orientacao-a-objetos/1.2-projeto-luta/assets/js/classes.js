@@ -65,7 +65,7 @@ class Stage {
 		this.fighter2 = fighter2;
 		this.fighter1El = fighter1El;
 		this.fighter2El = fighter2El;
-        this.log = logObject;
+		this.log = logObject;
 	}
 
 	start() {
@@ -121,24 +121,23 @@ class Stage {
 	}
 }
 
-
 class Log {
-    list = [];
+	list = [];
 
-    constructor(listEl) {
-        this.listEl = listEl;
-    }
+	constructor(listEl) {
+		this.listEl = listEl;
+	}
 
-    addMessage(msg) {
-        this.list.push(msg);
-        this.render();
-    }
+	addMessage(msg) {
+		this.list.push(msg);
+		this.render();
+	}
 
-    render() {
-        this.listEl.innerHTML = '';
+	render() {
+		this.listEl.innerHTML = "";
 
-        for (let i in this.list) {
-            this.listEl.innerHTML += `<li>${this.list[i]}</li>`;
-        }
-    }
+		for (let i in this.list) {
+			this.listEl.innerHTML += `<li>${this.list[i]}</li>`;
+		}
+	}
 }
