@@ -2,9 +2,11 @@ function createPerson(name, lastName, age) {
 	return {
 		name,
 		lastName,
-		age
+		age,
 	};
 }
 
-let person1 = createPerson('Leonardo', 'Wojahn', 21);
-let person2 = createPerson('Luiza', 'Pranke', 19);
+let person1 = createPerson("Leonardo", "Wojahn", 21);
+let person2 = createPerson("Luiza", "Pranke", 19);
+
+console.log(person1.name);
