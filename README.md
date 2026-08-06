@@ -19,6 +19,10 @@ javascipt-avancado/
 │  │  └─ assets/
 │  │     └─ js/
 │  ├─ 1.3-programacao-funcional/
+│  │  ├─ 1.3.1-factory/
+│  │  ├─ 1.3.2-instancia-e-this/
+│  │  ├─ 1.3.3-construtor/
+│  │  └─ 1.3.4-heranca/
 │  └─ 1.4-projeto-luta-funcional/ ⭐
 ├─ 2-requisicoes/
 ├─ 3-manipulacoes-arrow-ajax-etc/
