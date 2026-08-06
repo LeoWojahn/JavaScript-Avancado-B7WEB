@@ -24,6 +24,8 @@ javascipt-avancado/
 │  │  ├─ 1.3.3-construtor/
 │  │  └─ 1.3.4-heranca/
 │  └─ 1.4-projeto-luta-funcional/ ⭐
+│  │  └─ assets/
+│  │     └─ js/
 ├─ 2-requisicoes/
 ├─ 3-manipulacoes-arrow-ajax-etc/
 ├─ 4-requisicoes-e-assincronismo/
