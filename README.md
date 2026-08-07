@@ -27,6 +27,11 @@ javascipt-avancado/
 │  │  └─ assets/
 │  │     └─ js/
 ├─ 2-requisicoes/
+│  ├─ 2.1-sincrono-e-assincrono/
+│  ├─ 2.2-requisicao-e-resposta/
+│  ├─ 2.3-api-funcionamento/
+│  ├─ 2.4-callback/
+│  ├─ 2.5-fazendo-uma-requisicao/
 ├─ 3-manipulacoes-arrow-ajax-etc/
 ├─ 4-requisicoes-e-assincronismo/
 └─ node_modules/

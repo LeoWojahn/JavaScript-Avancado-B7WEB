@@ -5,9 +5,9 @@ let person = {
 	getFullName() {
 		return `${this.name} ${this.lastName}`;
 	},
-    start() {
-        console.log('Deu start na pessoa.');
-    }
+	start() {
+		console.log("Deu start na pessoa.");
+	},
 };
 
 person.start();
