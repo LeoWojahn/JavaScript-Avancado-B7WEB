@@ -32,6 +32,12 @@ javascipt-avancado/
 │  ├─ 2.3-api-funcionamento/
 │  ├─ 2.4-callback/
 │  ├─ 2.5-fazendo-uma-requisicao/
+│  ├─ 2.6-promise/
+│  ├─ 2.7-erros-na-promise/
+│  ├─ 2.8-tipos-de-status/
+│  ├─ 2.9-metodos-de-envio/
+│  ├─ 2.10-promises-com-async-await/
+│  └─ 2.11-projeto-blog-do-jsonplaceholder/ ⭐
 ├─ 3-manipulacoes-arrow-ajax-etc/
 ├─ 4-requisicoes-e-assincronismo/
 └─ node_modules/
