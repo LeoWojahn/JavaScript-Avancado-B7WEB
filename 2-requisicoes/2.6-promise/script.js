@@ -1,7 +1,5 @@
-// Promise = Promessa
-
 function clicou() {
-	fetch("https://jsonplaceholder.typicode.com/psosts")
+	fetch("https://jsonplaceholder.typicode.com/posts")
 		.then((response) => {
 			return response.json();
 		})

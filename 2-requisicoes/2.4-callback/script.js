@@ -1,1 +1,3 @@
-document.querySelector('#botao').addEventListener('click', () => { alert('Clicou') });
+document.querySelector("#botao").addEventListener("click", () => {
+	alert("Clicou");
+});
