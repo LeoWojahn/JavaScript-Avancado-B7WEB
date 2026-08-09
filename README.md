@@ -39,6 +39,10 @@ javascipt-avancado/
 │  ├─ 2.10-promises-com-async-await/
 │  └─ 2.11-projeto-blog-do-jsonplaceholder/ ⭐
 ├─ 3-manipulacoes-arrow-ajax-etc/
+│  ├─ 3.1-metodos-strings/
+│  ├─ 3.2-metodos-numeros/
+│  ├─ 3.3-metodos-arrays/
+│  ├─ 3.4-datas/
 ├─ 4-requisicoes-e-assincronismo/
 └─ node_modules/
 ```
