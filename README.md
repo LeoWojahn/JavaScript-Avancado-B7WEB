@@ -45,6 +45,7 @@ javascipt-avancado/
 │  ├─ 3.4-datas/
 │  ├─ 3.5-matematica/
 │  ├─ 3.6-intervalos/
+│  ├─ 3.7-template-strings/
 ├─ 4-requisicoes-e-assincronismo/
 └─ node_modules/
 ```
