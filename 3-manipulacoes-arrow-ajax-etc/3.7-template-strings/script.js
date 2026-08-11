@@ -1,6 +1,6 @@
 // As template strings (ou template literals) foram introduzidas no ECMAScript 2015 (ES6).
 
-let nome = 'Leonardo';
+let nome = "Leonardo";
 let idade = 21;
 
 // let frase = 'Meu nome é '+nome+' e eu tenho '+idade+' anos.';
