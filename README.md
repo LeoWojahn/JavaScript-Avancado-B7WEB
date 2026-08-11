@@ -43,6 +43,8 @@ javascipt-avancado/
 │  ├─ 3.2-metodos-numeros/
 │  ├─ 3.3-metodos-arrays/
 │  ├─ 3.4-datas/
+│  ├─ 3.5-matematica/
+│  ├─ 3.6-intervalos/
 ├─ 4-requisicoes-e-assincronismo/
 └─ node_modules/
 ```
