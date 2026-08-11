@@ -46,7 +46,13 @@ javascipt-avancado/
 │  ├─ 3.5-matematica/
 │  ├─ 3.6-intervalos/
 │  ├─ 3.7-template-strings/
-│  ├─ 3.8-desconstruindo-objetos/
+│  ├─ 3.9-desconstruindo-objetos/
+│  ├─ 3.10-desconstruindo-arrays/
+│  ├─ 3.11-arrow-functions/
+│  ├─ 3.12-operador-rest/
+│  ├─ 3.13-include-repeat/
+│  ├─ 3.14-keys-values-entries/
+│  └─ 3.15-string-padstart-padend/
 ├─ 4-requisicoes-e-assincronismo/
 └─ node_modules/
 ```
