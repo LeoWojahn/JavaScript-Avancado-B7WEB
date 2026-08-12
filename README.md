@@ -2,6 +2,8 @@
 
 Este repositório possui todos os códigos e projetos replicados por mim durante o [curso de JavaScript Avançado da B7WEB](https://b7web.com.br/).
 
+[Certificado de Conclusão](https://app.b7web.com.br/certificates/2b09375a-89eb-4e11-b296-98fe201e4c88)
+
 Estrutura do repositório:
 
 ```
@@ -54,5 +56,8 @@ javascipt-avancado/
 │  ├─ 3.14-keys-values-entries/
 │  └─ 3.15-string-padstart-padend/
 ├─ 4-requisicoes-e-assincronismo/
+│  ├─ 4.1-upload-de-arquivos/
+│  ├─ 4.2-thumbnails-com-js/
+│  └─ 4.3-thumbnails-com-filereader/
 └─ node_modules/
 ```
